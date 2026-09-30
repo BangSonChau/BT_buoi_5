@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Son\\Learning\\BE_C#\\buoi_5\\buoi_5_baitap\\bt_1\\bt_1.csproj",
+      "projectUniqueName": "D:\\Son\\Learning\\BE_C#\\buoi_5\\buoi_5_baitap\\bt_all\\bt_1.csproj",
       "projectName": "bt_1",
-      "projectPath": "D:\\Son\\Learning\\BE_C#\\buoi_5\\buoi_5_baitap\\bt_1\\bt_1.csproj",
+      "projectPath": "D:\\Son\\Learning\\BE_C#\\buoi_5\\buoi_5_baitap\\bt_all\\bt_1.csproj",
       "packagesPath": "C:\\Users\\bangs\\.nuget\\packages\\",
-      "outputPath": "D:\\Son\\Learning\\BE_C#\\buoi_5\\buoi_5_baitap\\bt_1\\obj\\",
+      "outputPath": "D:\\Son\\Learning\\BE_C#\\buoi_5\\buoi_5_baitap\\bt_all\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
